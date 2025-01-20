@@ -1,6 +1,6 @@
 {
-    "name": "Legal Instructions",
-    "short_name": "Instructions",
+    "name": "Ayuda",
+    "short_name": "Ayuda",
     "start_url": "./index.html",
     "display": "standalone",
     "icons": [
