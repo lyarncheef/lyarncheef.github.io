@@ -6,8 +6,8 @@ Ayuda folder contains a single html file displaying in spanish, emergency instru
 - go the URL in the link above **this page**
 - you will see red page of legal advice thats in Spanish
 - use the proper icon for a menu:
--- see bottom of page **up arrow** icon ( iphone only ) 
--- see upper right-hand **3 dots** icon ( android only )
+- see bottom of page **up arrow** icon ( iphone only ) 
+- see upper right-hand **3 dots** icon ( android only )
 - tap  your particular phone icon and ... 
 - selection list of actions will appear
 - locate in the list **add to homescreen** and tap on it
