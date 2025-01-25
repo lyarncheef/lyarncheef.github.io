@@ -6,10 +6,14 @@ Ayuda folder contains a single html file displaying in spanish, emergency instru
 - go the URL in the link above **this page**
 - you will see red page of legal advice thats in Spanish
 - use the proper icon for a menu:
-- see bottom of page **up arrow** icon ( iphone only ) 
-- see upper right-hand **3 dots** icon ( android only )
-- tap the icon for your particular phone 
+-- see bottom of page **up arrow** icon ( iphone only ) 
+-- see upper right-hand **3 dots** icon ( android only )
+- tap  your particular phone icon and ... 
 - selection list of actions will appear
-- locate in the list **add to homescreen** and tap on it 
+- locate in the list **add to homescreen** and tap on it
+- homepage now has butterfly icon
+- tap the butterfly to go direct to legal instructions
 
-![menu icons](./ayuda/phone_menus.png "use the proper icon for your type of phone")  
+![menu icons](./ayuda/phone_menus.png "use the proper icon for your type of phone") 
+
+![launcher icon](./ayuda/rights2.png "displays legal rights instructions")
