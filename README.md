@@ -1,6 +1,8 @@
 # lyarncheef.github.io
 Ayuda folder contains a single html file displaying in spanish, emergency instructions for handling visits or raids by ICE and can be installed to a phone's home page ( iphone/ android ) by going to a mobile browser, bringing up [this page](https://lyarncheef.github.io/ayuda) and then following the respective platforms instructions for
    **add to homescreen**
+   How to [install](https://youtu.be/ldY-Ef-C0F0) video
+     
 ### Add to homescreen instructions varies slightly ( iphone vs android ) 
 - bring up a browser ( iphone & android )
 - go the URL in the link above **this page**
